@@ -1,5 +1,6 @@
 - for linux, install libsdl3 using your package manager
-- for windows, download sdl3-mingw
+- for windows, download sdl3-mingw (e.g. [sdl3-devel-mingw-3.2.8](https://github.com/libsdl-org/SDL/releases/download/release-3.2.8/SDL3-devel-3.2.8-mingw.tar.gz) ) in github release,
+then place SDL3.dll and libSDL3.dll.a under third_party/SDL3
 
 ```shell
 # build project
