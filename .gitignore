@@ -1,0 +1,5 @@
+.vscode
+.clion
+build
+cmake-build-debug
+imgui.ini
